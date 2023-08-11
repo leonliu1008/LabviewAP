@@ -1,0 +1,8 @@
+D:\LabView\02_NI\TESTTT\LCEV_CANB.lvproj (LCEV_CANB.lvproj)
+    - The VI expected to be at "D:\LabView\VI_EXAMPLE\RX.vi" was loaded from "D:\LabView\02_NI\PCAN_Driver\RX.vi".
+D:\LabView\02_NI\TESTTT\LCEV_CANB.vi (LCEV_CANB.vi)
+    - The VI expected to be at "D:\LabView\PCAN_Driver\PCAN_WRITE.vi" was loaded from "D:\LabView\02_NI\TESTTT\PCAN_Driver\PCAN_WRITE.vi".
+    - The VI expected to be at "D:\LabView\VI_EXAMPLE\RX.vi" was loaded from "D:\LabView\02_NI\PCAN_Driver\RX.vi".
+D:\LabView\02_NI\TESTTT\PCAN_Driver\PCAN_WRITE.vi (PCAN_WRITE.vi)
+    - The shared library expected to be at "D:\LabView\PCAN_Driver\PCAN_USB.DLL" was loaded from "D:\LabView\02_NI\PCAN_Driver\PCAN_USB.DLL".
+    - The control expected to be at "D:\LabView\PCAN_Driver\PCAN_ERROR.ctl" was loaded from "D:\LabView\02_NI\PCAN_Driver\PCAN_ERROR.ctl".
