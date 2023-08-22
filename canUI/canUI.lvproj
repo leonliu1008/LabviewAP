@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="canDataSortSubVI_TEST.vi" Type="VI" URL="../../OPEN_DBC/canDataSortSubVI_TEST.vi"/>
 			<Item Name="canlib32.dll" Type="Document" URL="canlib32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -32,6 +33,7 @@
 			<Item Name="kvCanUnloadLibrary.vi" Type="VI" URL="../../kvCanVI/kvCanUnloadLibrary.vi"/>
 			<Item Name="kvCanWrite.vi" Type="VI" URL="../../kvCanVI/kvCanWrite.vi"/>
 			<Item Name="kvCanWriteMsgFlag.vi" Type="VI" URL="../../kvCanVI/kvCanWriteMsgFlag.vi"/>
+			<Item Name="readSub.ctl" Type="VI" URL="../readSub.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
