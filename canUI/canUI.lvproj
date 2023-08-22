@@ -13,7 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="canDataSortSubVI_TEST.vi" Type="VI" URL="../../OPEN_DBC/canDataSortSubVI_TEST.vi"/>
+			<Item Name="canDataSortSubVI.vi" Type="VI" URL="../../OPEN_DBC/canDataSortSubVI.vi"/>
 			<Item Name="canlib32.dll" Type="Document" URL="canlib32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
