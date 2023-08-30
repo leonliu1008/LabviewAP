@@ -11,6 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="canToDbcSubVI.vi" Type="VI" URL="../canToDbcSubVI.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="canDataSortSubVI.vi" Type="VI" URL="../../OPEN_DBC/canDataSortSubVI.vi"/>
@@ -22,8 +23,10 @@
 			<Item Name="kvCanClose.vi" Type="VI" URL="../../kvCanVI/kvCanClose.vi"/>
 			<Item Name="kvCanError.vi" Type="VI" URL="../../kvCanVI/kvCanError.vi"/>
 			<Item Name="kvCanInitialize.vi" Type="VI" URL="../../kvCanVI/kvCanInitialize.vi"/>
+			<Item Name="kvCanIoCtlFlush.vi" Type="VI" URL="../../kvCanVI/kvCanIoCtlFlush.vi"/>
 			<Item Name="kvCanMsgDisplayBox.vi" Type="VI" URL="../../kvCanVI/kvCanMsgDisplayBox.vi"/>
 			<Item Name="kvCanOpenChannel.vi" Type="VI" URL="../../kvCanVI/kvCanOpenChannel.vi"/>
+			<Item Name="kvCanReadSync.vi" Type="VI" URL="../../kvCanVI/kvCanReadSync.vi"/>
 			<Item Name="kvCanReadWait.vi" Type="VI" URL="../../kvCanVI/kvCanReadWait.vi"/>
 			<Item Name="kvCanSetBusParams.vi" Type="VI" URL="../../kvCanVI/kvCanSetBusParams.vi"/>
 			<Item Name="kvCanSetBusParamsFd.vi" Type="VI" URL="../../kvCanVI/kvCanSetBusParamsFd.vi"/>
