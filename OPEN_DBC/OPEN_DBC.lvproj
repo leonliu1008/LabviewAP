@@ -12,10 +12,11 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Open_DBC.vi" Type="VI" URL="../Open_DBC.vi"/>
 		<Item Name="callPython.vi" Type="VI" URL="../callPython.vi"/>
 		<Item Name="canDataSort.vi" Type="VI" URL="../canDataSort.vi"/>
 		<Item Name="canDataSortSubVI.vi" Type="VI" URL="../canDataSortSubVI.vi"/>
-		<Item Name="Open_DBC.vi" Type="VI" URL="../Open_DBC.vi"/>
+		<Item Name="callPython2.vi" Type="VI" URL="../callPython2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="2_x_U8_littel_Endian_to_U16.vi" Type="VI" URL="/&lt;instrlib&gt;/KDI Digital Instrumentation/API_for_PCAN_BASIC_FD/2_x_U8_littel_Endian_to_U16.vi"/>
